@@ -8,12 +8,14 @@ Backup Shell Backdoor Multifungsi
          Status : Work
   Extension Support: php7,php5,php,pHP,pHp,PHp
 }
+
 [b0y-101 Mini Shell]
 {
    Fitur: Chmod,delete,edit,execute
    Status : Detected Imunify360
    Extension Support: php7,php5,php,pHP,pHp,PHp
 }
+
 [PhpFileManager]
 {
    Fitur: Chmod,delete,edit,execute,ssi command,php info,
